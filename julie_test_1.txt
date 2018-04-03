@@ -1,5 +1,9 @@
 A nous la bonne note !! Ouais !!
+<<<<<<< HEAD
 bboooom
+=======
+momo
+>>>>>>> 47e2084f9a9f3fc08939320c2b939dfa68ef24d0
 LALALALALALA
 
 MODIFFFFF
